@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "DinamikServiceBanking",
-            url: "https://github.com/bkabadayi/DinamikServiceBankingIOS/releases/download/1.0.1/DinamikServiceBanking.xcframework.zip",
-            checksum: "dbd730009acb7a0ff2293ad491dffb6180a9e0859efb90433ededf667fa0498c"
+            url: "https://github.com/bkabadayi/DinamikServiceBankingIOS/releases/download/1.0.2/DinamikServiceBanking.xcframework.zip",
+            checksum: "a3e81fa03e68e5d9428cea2bc6223e7757e8dfca3e1063ceee8fcc6b6ff6667f"
         ),
     ]
 )
